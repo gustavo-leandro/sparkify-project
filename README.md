@@ -26,14 +26,14 @@ pyspark.ml
 
 ## File Descriptions <a name="files"></a>
 
-There are 2 files:
+There is one files:
 **Sparkify.ipynb** - notebook with all the code and analysis made.
 **mini_sparkify_event_data.json** - json file with the logs of Sparkify usage.  
 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://gustavo-sleandro.medium.com/when-and-where-to-stay-on-an-airbnb-in-boston-and-seattle-37585f9dead2).
+The main findings of the code can be found at the post available [here](https://gustavo-sleandro.medium.com/how-to-predict-churn-in-sparkify-using-spark-6bf1a95adadc).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
