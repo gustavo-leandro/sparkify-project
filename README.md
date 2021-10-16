@@ -33,7 +33,7 @@ There is one files:
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://gustavo-sleandro.medium.com/how-to-predict-churn-in-sparkify-using-spark-6bf1a95adadc).
+The Random Forest model obtained the best result in comparison with the other models tested, but you can see the main findings of the code can be found at the post available [here](https://gustavo-sleandro.medium.com/how-to-predict-churn-in-sparkify-using-spark-6bf1a95adadc).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
